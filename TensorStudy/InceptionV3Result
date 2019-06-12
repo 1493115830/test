@@ -1,0 +1,42 @@
+images/car.jpg
+convertible (score = 0.73321)
+sports car, sport car (score = 0.18322)
+car wheel (score = 0.00131)
+grille, radiator grille (score = 0.00063)
+tick (score = 0.00052)
+
+images/cat.jpg
+Egyptian cat (score = 0.42095)
+tabby, tabby cat (score = 0.25640)
+tiger cat (score = 0.07002)
+lynx, catamount (score = 0.01568)
+washer, automatic washer, washing machine (score = 0.00905)
+
+images/dog.jpg
+boxer (score = 0.59572)
+bull mastiff (score = 0.10993)
+French bulldog (score = 0.04608)
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier (score = 0.01911)
+Staffordshire bullterrier, Staffordshire bull terrier (score = 0.01180)
+
+images/dog1.jpg
+Labrador retriever (score = 0.79747)
+Chesapeake Bay retriever (score = 0.03395)
+Great Dane (score = 0.00917)
+German short-haired pointer (score = 0.00830)
+Rottweiler (score = 0.00735)
+
+images/plant.jpg
+airliner (score = 0.76659)
+wing (score = 0.09288)
+warplane, military plane (score = 0.02927)
+matchstick (score = 0.00552)
+space shuttle (score = 0.00177)
+
+images/seaside.jpg
+seashore, coast, seacoast, sea-coast (score = 0.93389)
+sandbar, sand bar (score = 0.05610)
+promontory, headland, head, foreland (score = 0.00113)
+catamaran (score = 0.00016)
+coral reef (score = 0.00015)
+
